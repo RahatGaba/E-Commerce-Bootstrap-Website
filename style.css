@@ -1,0 +1,14 @@
+.navbar{
+    background-color:#ffecec !important;
+    box-shadow: 3px 3px 11px 1px #888888;
+    display: flex !important ;
+    
+    align-items: center !important;
+}
+.nav-link{
+    color: #000 !important;
+    font-weight: bold;
+}
+.fa{
+    font-size: 32px !important;
+}
